@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|c:\\users\\orzom\\desktop\\jovision-backend-tasks\\task46\\task46\\controllers\\greeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|solutionrelative:task46\\controllers\\greeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|c:\\users\\orzom\\desktop\\jovision-backend-tasks\\task46\\task46\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|solutionrelative:task46\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|c:\\users\\orzom\\desktop\\jovision-backend-tasks\\task46\\task46\\task46.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|solutionrelative:task46\\task46.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|c:\\users\\orzom\\desktop\\jovision-backend-tasks\\task46\\task46\\controllers\\birthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|solutionrelative:task46\\controllers\\birthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|c:\\users\\orzom\\desktop\\jovision-backend-tasks\\task46\\task46\\task46.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{707E40BF-1F97-474B-BB1C-3B73069A82E2}|Task46\\Task46.csproj|solutionrelative:task46\\task46.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task46\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task46\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T18:09:42.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task46",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Task46.csproj",
+              "RelativeDocumentMoniker": "Task46\\Task46.csproj",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Task46.csproj",
+              "RelativeToolTip": "Task46\\Task46.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T18:09:37.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task46.http",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Task46.http",
+              "RelativeDocumentMoniker": "Task46\\Task46.http",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Task46.http",
+              "RelativeToolTip": "Task46\\Task46.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-18T18:02:01.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BirthDate.cs",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\BirthDate.cs",
+              "RelativeDocumentMoniker": "Task46\\Controllers\\BirthDate.cs",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\BirthDate.cs",
+              "RelativeToolTip": "Task46\\Controllers\\BirthDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:52:11.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Greeter.cs",
+              "DocumentMoniker": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\Greeter.cs",
+              "RelativeDocumentMoniker": "Task46\\Controllers\\Greeter.cs",
+              "ToolTip": "C:\\Users\\ORZOm\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\Greeter.cs*",
+              "RelativeToolTip": "Task46\\Controllers\\Greeter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:52:00.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
