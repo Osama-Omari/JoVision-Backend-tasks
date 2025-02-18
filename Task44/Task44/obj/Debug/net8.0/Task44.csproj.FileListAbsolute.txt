@@ -34,3 +34,4 @@ C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task44\Task44\obj\Debug\net8.0\ref
 C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task44\Task44\obj\Debug\net8.0\Task44.pdb
 C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task44\Task44\obj\Debug\net8.0\Task44.genruntimeconfig.cache
 C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task44\Task44\obj\Debug\net8.0\ref\Task44.dll
+C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task44\Task44\obj\Debug\net8.0\Task44.sourcelink.json
