@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
-
+using Task47.Models;
 namespace Task47.Controllers
 {
     [ApiController]
@@ -9,12 +9,7 @@ namespace Task47.Controllers
     {
         private readonly string storage = Path.Combine(Directory.GetCurrentDirectory(), "Images");
 
-        public class ImageMetadata
-        {
-            public string OwnerName { get; set; }
-            public DateTime CreatedAt { get; set; }
-            public DateTime LastModifiedAt { get; set; }
-        }
+        
 
         [HttpDelete("delete")]
         public IActionResult delete([FromQuery] string FileName , string FileOwner)
@@ -30,7 +25,7 @@ namespace Task47.Controllers
             if (System.IO.File.Exists(imagemetadatapath))
             {
                 string metadataJson = System.IO.File.ReadAllText(imagemetadatapath);
-                var metadata = JsonSerializer.Deserialize<ImageMetadata>(metadataJson);
+                var metadata = JsonSerializer.Deserialize<ImageMetaData>(metadataJson);
                 if (string.IsNullOrEmpty(metadata?.OwnerName) ||
                     !metadata.OwnerName.Trim().ToLower().Equals(FileOwner.Trim().ToLower()))
                 {
