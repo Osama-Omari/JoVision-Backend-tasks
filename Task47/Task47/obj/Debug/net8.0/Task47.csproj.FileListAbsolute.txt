@@ -38,3 +38,4 @@ C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task47\Task47\obj\Debug\net8.0\ref
 C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task47\Task47\bin\Debug\net8.0\Images\IMG_2258.JPG.json
 C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task47\Task47\bin\Debug\net8.0\Images\IMG_2305.JPG.json
 C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task47\Task47\bin\Debug\net8.0\Images\Arthur.JPG.json
+C:\Users\ORZOm\Desktop\JoVision-Backend-tasks\Task47\Task47\bin\Debug\net8.0\Images\IMG_2050.JPG.json

@@ -67,6 +67,37 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Task47.Controllers.Filter",
+    "Method": "filter",
+    "RelativePath": "api/Filter/filter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CreationDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ModificationDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Owner",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FilterType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Task47.Controllers.Retrieve",
     "Method": "retrieve",
     "RelativePath": "api/Retrieve/retrieve",
@@ -81,6 +112,27 @@
       },
       {
         "Name": "FileOwner",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task47.Controllers.TransferOwnership",
+    "Method": "Transferownership",
+    "RelativePath": "api/TransferOwnership/transfer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oldOwner",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newOwner",
         "Type": "System.String",
         "IsRequired": false
       }
